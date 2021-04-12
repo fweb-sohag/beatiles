@@ -1,0 +1,239 @@
+@media(min-width:320px) {
+    #sub-menu {
+        overflow: hidden;
+    }
+
+    #sub-menu .sub-heading {
+        text-align: center;
+        line-height: 34px;
+        height: 34px;
+    }
+
+    #sub-menu .sub-icon {
+        text-align: center;
+        line-height: 34px;
+        height: 34px;
+
+
+    }
+
+    footer p {
+        font-size: 13px;
+    }
+
+    #banner .banner-img .banner-content h2 {
+        font-size: 22px;
+    }
+
+    #banner .banner-img .banner-content h1 {
+        font-size: 28px;
+    }
+
+    #banner .banner-img .banner-content p {
+        padding-left: 34px;
+        font-size: 12px;
+    }
+
+}
+
+@media(max-width:575.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    #sub-menu {}
+
+    #sub-menu .sub-heading {
+        text-align: center;
+    }
+
+
+    #sub-menu .sub-icon {}
+
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .header {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    #sub-menu .sub-heading {
+        text-align: center;
+    }
+
+
+    #sub-menu .sub-icon {
+        text-align: center;
+    }
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+}
+
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+
+
+}

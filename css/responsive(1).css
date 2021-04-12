@@ -1,0 +1,562 @@
+@media(min-width:320px) {
+    #sub-menu {
+        overflow: hidden;
+    }
+
+    #sub-menu .sub-heading {
+        text-align: center;
+        line-height: 34px;
+        height: 34px;
+    }
+
+    #sub-menu .sub-icon {
+        text-align: center;
+        line-height: 34px;
+        height: 34px;
+
+    }
+
+    footer p {
+        font-size: 13px;
+    }
+
+    #banner .banner-img .banner-content h2 {
+        font-size: 22px;
+    }
+
+    #banner .banner-img .banner-content h1 {
+        font-size: 28px;
+    }
+
+    #banner .banner-img .banner-content p {
+        padding-left: 34px;
+        font-size: 12px;
+    }
+
+    /* ****************** */
+    .header h2::before {
+        left: 115px;
+    }
+
+    .header h2::after {
+        left: 165px;
+    }
+
+    .header h2 span::before {
+        left: 170px;
+    }
+
+    .header h2 span::after {
+        left: 173px;
+    }
+
+    /* ****************** */
+    /* ****************** */
+    .headers h2::before {
+        left: 0px;
+    }
+
+    .headers h2::after {
+        left: 0px;
+    }
+
+    .headers h2 span::before {
+        left: 0px;
+    }
+
+    .headers h2 span::after {
+        left: 0px;
+    }
+
+    /* ****************** */
+    .headerp h2::before {
+        left: 0px;
+    }
+
+    .headerp h2::after {
+        left: 0px;
+    }
+
+    .headerp h2 span::before {
+        left: 0px;
+    }
+
+    .headerp h2 span::after {
+        left: 0px;
+    }
+
+    /* ****************** */
+    .headerr h2::before {
+        left: 0px;
+    }
+
+    .headerr h2::after {
+        left: 0px;
+    }
+
+    .headerr h2 span::before {
+        left: 0px;
+    }
+
+    .headerr h2 span::after {
+        left: 0px;
+    }
+}
+
+
+@media(max-width:575.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+    .header h2::before {
+        left: 223px;
+    }
+
+    .header h2::after {
+        left: 274px;
+    }
+
+    .header h2 span::before {
+        left: 281px;
+    }
+
+    .header h2 span::after {
+        left: 288px;
+    }
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .header {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+
+    /* #services .service {
+        margin-top: 50px;
+    } */
+
+    /* ****************** */
+    .headers h2::before {
+        left: 206px;
+    }
+
+    .headers h2::after {
+        left: 256px;
+    }
+
+    .headers h2 span::before {
+        left: 263px;
+    }
+
+    .headers h2 span::after {
+        left: 270px;
+    }
+
+    /* ****************** */
+    .headerp h2::before {
+        left: 200px;
+    }
+
+    .headerp h2::after {
+        left: 251px;
+    }
+
+    .headerp h2 span::before {
+        left: 257px;
+    }
+
+    .headerp h2 span::after {
+        left: 264px;
+    }
+
+    /* ****************** */
+    .headerr h2::before {
+        left: 213px;
+    }
+
+    .headerr h2::after {
+        left: 263px;
+    }
+
+    .headerr h2 span::before {
+        left: 269px;
+    }
+
+    .headerr h2 span::after {
+        left: 276px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+    .header h2::before {
+        left: 206px;
+    }
+
+    .header h2::after {
+        left: 257px;
+    }
+
+    .header h2 span::before {
+        left: 264px;
+    }
+
+    .header h2 span::after {
+        left: 271px;
+    }
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+
+
+    /* ****************** */
+    .headers h2::before {
+        left: 189px;
+    }
+
+    .headers h2::after {
+        left: 239px;
+    }
+
+    .headers h2 span::before {
+        left: 246px;
+    }
+
+    .headers h2 span::after {
+        left: 253px;
+    }
+
+    /* ****************** */
+    .headerp h2::before {
+        left: 200px;
+    }
+
+    .headerp h2::after {
+        left: 251px;
+    }
+
+    .headerp h2 span::before {
+        left: 257px;
+    }
+
+    .headerp h2 span::after {
+        left: 264px;
+    }
+
+    /* ****************** */
+    .headerr h2::before {
+        left: 213px;
+    }
+
+    .headerr h2::after {
+        left: 263px;
+    }
+
+    .headerr h2 span::before {
+        left: 269px;
+    }
+
+    .headerr h2 span::after {
+        left: 276px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-nav {
+        background: #fff;
+        text-align: center;
+    }
+
+    .fixd-nav {
+        height: 64px;
+    }
+
+    #banner {
+        margin-bottom: 30px;
+    }
+
+    #about .about-para p:last-of-type {
+        padding-top: 0px;
+    }
+
+    #about .about-para p:first-of-type {
+        padding-top: 15px;
+    }
+
+    #about {
+        margin-bottom: 15px;
+    }
+
+    #services .service {
+
+        margin-top: 47px;
+        margin-bottom: 17px;
+
+    }
+
+    #team .team-item {
+        margin-top: 20px;
+    }
+
+    .headerp {
+        padding-top: 10px;
+    }
+
+    #portfolio {
+        margin-bottom: 10px;
+    }
+
+    #team {
+        margin-bottom: 30px;
+    }
+
+    #testimonial {
+        margin-bottom: 30px;
+    }
+
+    #footer .footer .head h4 {
+        padding-top: 4px;
+    }
+
+    .header h2::before {
+        left: 297px;
+    }
+
+    .header h2::after {
+        left: 348px;
+    }
+
+    .header h2 span::before {
+        left: 355px;
+    }
+
+    .header h2 span::after {
+        left: 362px;
+    }
+
+    /* ****************** */
+    .headers h2::before {
+        left: 278px;
+    }
+
+    .headers h2::after {
+        left: 328px;
+    }
+
+    .headers h2 span::before {
+        left: 335px;
+    }
+
+    .headers h2 span::after {
+        left: 342px;
+    }
+
+    /* ****************** */
+    .headerp h2::before {
+        left: 272px;
+    }
+
+    .headerp h2::after {
+        left: 323px;
+    }
+
+    .headerp h2 span::before {
+        left: 329px;
+    }
+
+    .headerp h2 span::after {
+        left: 336px;
+    }
+
+    /* ****************** */
+    .headerr h2::before {
+        left: 285px;
+    }
+
+    .headerr h2::after {
+        left: 335px;
+    }
+
+    .headerr h2 span::before {
+        left: 341px;
+    }
+
+    .headerr h2 span::after {
+        left: 348px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199.98px) {
+
+
+
+
+    .header h2::before {
+        left: 415px;
+    }
+
+    .header h2::after {
+        left: 466px;
+    }
+
+    .header h2 span::before {
+        left: 473px;
+    }
+
+    .header h2 span::after {
+        left: 480px;
+    }
+
+    /* ****************** */
+    .headers h2::before {
+        left: 398px;
+    }
+
+    .headers h2::after {
+        left: 448px;
+    }
+
+    .headers h2 span::before {
+        left: 455px;
+    }
+
+    .headers h2 span::after {
+        left: 462px;
+    }
+
+    /* ****************** */
+    .headerp h2::before {
+        left: 390px;
+    }
+
+    .headerp h2::after {
+        left: 441px;
+    }
+
+    .headerp h2 span::before {
+        left: 447px;
+    }
+
+    .headerp h2 span::after {
+        left: 454px;
+    }
+
+    /* ****************** */
+    .headerr h2::before {
+        left: 404px;
+    }
+
+    .headerr h2::after {
+        left: 454px;
+    }
+
+    .headerr h2 span::before {
+        left: 460px;
+    }
+
+    .headerr h2 span::after {
+        left: 467px;
+    }
+}
