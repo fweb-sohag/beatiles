@@ -789,7 +789,7 @@ img {
 #footer .footer .head h4 {
     font-size: 16px;
     font-family: var(--hf);
-    font-family: 500;
+    font-weight: 600;
     text-transform: capitalize;
     color: #fff;
     padding-top: 35px;
@@ -819,7 +819,7 @@ img {
     padding-left: 10px;
     font-size: 13px;
     font-family: var(--pf);
-    font-family: 400;
+    font-weight: 400;
 }
 
 #footer .footer .icon ul li span a {
@@ -835,7 +835,7 @@ img {
 
 #footer .footer .links ul li {
     padding-bottom: 10px;
-    padding-top: -10px !important;
+    /* padding-top: -10px !important; */
 }
 
 #footer .footer .links ul li a {
@@ -863,7 +863,7 @@ footer {
 }
 
 footer p {
-    font-size: 13;
+    font-size: 13px;
     font-family: var(--pf);
     font-weight: 400;
     color: #fff;
@@ -900,5 +900,4 @@ footer p {
 }
 
 /* backtotop end  */
-.
 /* contact part end  */
